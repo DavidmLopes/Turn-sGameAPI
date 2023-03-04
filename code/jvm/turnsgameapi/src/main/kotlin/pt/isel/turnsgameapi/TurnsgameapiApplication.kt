@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class TurnsGameApiApplication
+class TurnsgameapiApplication
 
 fun main(args: Array<String>) {
-	runApplication<TurnsGameApiApplication>(*args)
+	runApplication<TurnsgameapiApplication>(*args)
 }
